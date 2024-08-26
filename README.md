@@ -45,7 +45,6 @@ This is a simple Express.js application that demonstrates user authentication us
 
 ### 5. Start the Application
 
-     ```bash
     node index.js
 
 ## Usage
