@@ -14,14 +14,13 @@ This is a simple Express.js application that demonstrates user authentication us
 
 ### 1. Clone the Repository
 
-    ```bash
+   
     git clone https://github.com/Manish312002/SecureAuthApp_with_session_cookies_and_env.git
     cd SecureAuthApp_with_session_cookies_and_env
 
 ### 2. Install Dependencies
-
-     ```bash
-     npm i express ejs pg body-parser bcrypt passport express-session passport-local dotenv
+  
+    npm i express ejs pg body-parser bcrypt passport express-session passport-local dotenv
 
 ### 3. Configure Environment Variables
 
